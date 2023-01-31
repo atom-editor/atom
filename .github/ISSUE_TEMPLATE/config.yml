@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: User Documentation
+    url: https://flight-manual.atom.camp
+    about: The Atom Flight Manual
+  - name: Developer Documentation
+    url: https://atom.camp/docs/api/latest
+    about: Atom API Documentation
+  - name: Message Board
+    url: https://github.com/atom-editor/atom/discussions
+    about: Github Discussions, the official Atom message board
